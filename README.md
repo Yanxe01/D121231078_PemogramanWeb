@@ -521,4 +521,3 @@ Website ini mendemonstrasikan penggunaan teknik modern CSS dan HTML:
 - **Color Psychology**: Dark theme dengan blue accents untuk professional appearance
 - **Performance Optimization**: Hardware-accelerated transforms dan efficient selectors
 
-Kombinasi teknik ini menghasilkan portfolio yang modern, responsive, dan user-friendly dengan perhatian detail pada visual design dan user experience.
